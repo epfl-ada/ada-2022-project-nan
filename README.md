@@ -1,26 +1,30 @@
 # Where are the Cute Kittens and what happened to your attention spa...
 P2 Deliverable, project proposal, and initial analyses for [ADA - Fall 2022](https://dlab.epfl.ch/teaching/fall2022/cs401/projects/)
 
-## Table of Contents
+# Table of contents
+
 - [Where are the Cute Kittens and what happened to your attention spa...](#where-are-the-cute-kittens-and-what-happened-to-your-attention-spa)
-	- [Abstract - Where are the cute kittens?](#abstract---where-are-the-cute-kittens-)
-	- [Research Question](#research-question)
-	- [Additional Datasets](#additional-datasets)
-	-  [Methods](#methods)
-	-  [Proposed Timeline](#proposed-timeline)
-	-  [Organisation of work](#organization-of-work)
-	-  [Questions to TA](#questions-to-ta)
-	-  [Notebook](#notebook)
-		-  [Abstract](#abstract)
-		-  [Dependencies](#dependencies)
-	- [Authors](#authors)
-	- [References](#references)
+  - [Table of Contents](#table-of-contents)
+  - [Abstract - Where are the Cute Kittens?](#abstract---where-are-the-cute-kittens)
+  - [Research Question](#research-question)
+  - [Additional Datasets](#additional-datasets)
+  - [Methods](#methods)
+    - [Data storage and computations](#data-storage-and-computations)
+    - [Visualisation](#visualisation)
+  - [Proposed Timeline](#proposed-timeline)
+  - [Organization of work](#organization-of-work)
+  - [Questions to TA](#questions-to-ta)
+  - [Notebook](#notebook)
+    - [Dependencies](#dependencies)
+  - [Authors](#authors)
+    - [References](#references)
+
 
 ## Abstract - Where are the Cute Kittens? 
-> <center>
-> *You sit comfortably on your couch and pick up your phone.*
-> *You scroll through the latest TikTok trend, past that funny Reel about Gen-Z humor. You snug into a blanket, ready to dive into the new 20min episode by 3Blue1Brown on 'Why PI Is Everywhere'. Once on YouTube, though, you get sidetracked by a Short of Elon taking a puff with Joe Rogan, and you end up irritated by a Vox documentary on the Rise to Power of Vladimir Putin. [^1]*</center>
-> <center>You stop and think: *Where are the cute kittens?*</center>
+<center>
+*You sit comfortably on your couch and pick up your phone.*
+*You scroll through the latest TikTok trend, past that funny Reel about Gen-Z humor. You snug into a blanket, ready to dive into the new 20min episode by 3Blue1Brown on 'Why PI Is Everywhere'. Once on YouTube, though, you get sidetracked by a Short of Elon taking a puff with Joe Rogan, and you end up irritated by a Vox documentary on the Rise to Power of Vladimir Putin. [^1]*</center>
+<center>You stop and think: *Where are the cute kittens?*</center>
 
 What happened to YouTube? How did we go from funny cat videos and epic fail montages to long-form podcasts, product reviews, and deconstructions of political rivalries with incredible production quality? How did YouTube not only survive but thrive in a world where short, mobile-first content became king?
 
