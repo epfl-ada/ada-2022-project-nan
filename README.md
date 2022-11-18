@@ -32,7 +32,7 @@ What happened to YouTube? How did we go from funny cat videos and epic fail mont
 In this project, we will travel through time, and explore YouTube's trends over the years, using the YouNiverse Dataset [^2].
 
 ## Research Question
-Our aim is *not* to establish a causal relationship between particular features and engagement, nor to create a recipe for future channel success. Our focus is to present interesting trends that can be digested and appreciated regardless of how intertwined Social media as a whole have become.
+Our aim is *not* to establish a causal relationship between particular features and engagement, nor to create a recipe for future channel success. We will focus on presenting interesting trends that can be digested and appreciated regardless of how intertwined Social media as a whole has become.
 - How did the length of videos change over the years?
 - What are the most popular topics over the years and how are they distributed?
 - Are there clear shifts in the behavior of the creators related to changes in the policy of the platform?
@@ -61,18 +61,39 @@ Key methods and aspects moving forward:
 ### Data storage and computations
 To work with this dataset we devised the following structure:
 1. Creation of partial datasets with 1k, 10k, 100k, 1mln entries to devise correct implementations on local machines
-2. Use of Google Cloud Storage to run on a cluster with 600Gb of working memory and 90CPUs to handle the full dataset.
+2. Use of Google Cloud to run on a cluster with 600Gb of working memory and 90CPUs to handle the full dataset.
 3. Vectorisation of natural language, optimization, parallelization of algorithms, and modularisation of code to make the notebook an optimized 'front-end' and run results on multiple cores.
 
 ### Visualisation
 Our goal is to make some visualizations interactive and informative. 
 In particular, we plan the use of word clouds for topic popularity as well as graph views to show connections between descriptions and tags. 
 
+### Clustering the tags.
+We can use NLP and K-means in Python to automatically cluster tags to understand the variety of subjects in video over time. And to prove or not the decentralization of topics.
+
+1. Preprocessing the tags into clean words so that we can turn them into numerical data.
+2. Vectorisation: turning words into numerical features to prepare for machine learning. Creating a similarity measure between the tags based on the number of videos that the tags appear in together. The matrix will be something like this: value at (i,j) equals the frequency of (i,j)/frequency of (i), where i and j is tags.
+3. Applying K-means clustering of some hierarchical clustering algorithm like Fast Modularity clustering, an unsupervised machine learning algorithms, to group similar tags.
+4. Estimating cluster quality through cluster labelling and visualisation.
+5. Finetuning previous steps to improve cluster quality.
+
+### Creating Graph.
+The aim of this method is to create a graph that will represent the connection among videos using common tags. It will be displayed for different periods and plotted with the Fruchterman-Reingold layout algorithm to visually distinguish these connections. 
+
+Using this approach, we could see if there is a tendency of Youtube that the content of videos becomes more specific and diverse. 
+
+The proposed library for the following method is networkx.
+
+### Time Series Analysis.
+Here, we are not attempting to forecast the popularity of the videos. However, it is reasonable to answer the following questions for like, dislike, and view counts to find some patterns over time.
+- Are they stationary?
+- Is there seasonality?
+
 
 ## Proposed Timeline
 We devised a tentative timeline to help us stay on track. Details are useful to our team and we keep them here in the official README since it's P2. 
 - ***[14/11 - 20/11]* - Week 9:** P2 - show the feasibility, clarity on research questions, initial exploration, and results. 
-- ***[21/11 - 04/12]* - Week 10-11:** Breadth: look for interesting trends, research monetization policies, and deeper analysis on the rise of long-format videos on YouTube alongside short-format videos on other platforms. Clean results on lengths of videos and time-series analysis. Refine NLP on descriptions, titles, and tags. Research optimization and parallelization of notebooks. Initial implementation of the graph and word cloud with vectorization. 
+- ***[21/11 - 04/12]* - Week 10-11:** Breadth: look for interesting trends, research monetization policies. Clean results on lengths of videos and time-series analysis. Refine NLP on descriptions, titles, and tags. Research optimization and parallelization of notebooks. Initial implementation of the graph and word cloud with vectorization. 
 - ***[05/12 - 11/12]* - Week 12:** Outline of results, draft of data story. Finding signal over noise, and clearing up results narrowing down on what really seems interesting and surprising. NLP over titles and descriptions will need more revision. Length of videos and background on YouTube Policies and significant events should be clear and done.
 - ***[12/12 - 18/12]* - Week 13:** Website mockup and design. Find captivating angles to create an interesting story. 
 - ***[19/12 - 23/12]* - Week 14:** P3 - Clean up code, keep one main notebook, add useful comments, final touches on data story, redact final README with notes gathered during previous weeks.
