@@ -73,7 +73,7 @@ We can use NLP and K-means in Python to automatically cluster tags to understand
 
 1. Preprocessing the tags into clean words so that we can turn them into numerical data.
 2. Vectorisation: turning words into numerical features to prepare for machine learning. Creating a similarity measure between the tags based on the number of videos that the tags appear in together. The matrix will be something like this: value at (i,j) equals the frequency of (i,j)/frequency of (i), where i and j is tags.
-3. Applying K-means clustering of some hierarchical clustering algorithm like Fast Modularity clustering, an unsupervised machine learning algorithms, to group similar tags.
+3. Applying K-means clustering or some hierarchical clustering algorithm like Fast Modularity clustering, an unsupervised machine learning algorithms, to group similar tags.
 4. Estimating cluster quality through cluster labelling and visualisation.
 5. Finetuning previous steps to improve cluster quality.
 
