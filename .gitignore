@@ -1,10 +1,29 @@
+# Usual MacOS
 .DS_Store
-data/
 
 .ipynb_checkpoints/
 
 # Dask 
 dask-worker-space/
 
+# other macos stuff that might be hidden (inside a zip for example, when zipped with macos)
+__MACOSX/
 
+
+# More refined ignore for data, selectively including some subfolders
+# data/ -- would ignore the whole folder and not look inside
+# by using data/* we can ignore the CONTENTS of the folder, but not the folder itself, so we can start to include subfolders selectively with 'un-ignores': !data/subfolder_included
+data/*
+!data/100
+!data/1000
+!data/10000
+data/10000/*
+!data/full
+data/full/*
+
+!data/conceptnet
+data/conceptnet/*
+
+!data/out
+data/out/*
 
