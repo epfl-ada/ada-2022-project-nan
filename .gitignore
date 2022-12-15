@@ -16,7 +16,6 @@ __MACOSX/
 data/*
 !data/100
 !data/1000
-!data/10000/out/
 data/full/*
 
 
@@ -24,5 +23,4 @@ data/full/*
 data/conceptnet/*
 
 !data/out
-data/out/*
 

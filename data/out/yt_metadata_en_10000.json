@@ -1,0 +1,1330 @@
+[
+  {
+    "__ROW_PATH__": [],
+    "month_bucket(upload_date)": "2/1/2007",
+    "duration": 607.2082,
+    "interaction_rate": 0.020161290322580645,
+    "view_count": 29126,
+    "categories": 10000
+  },
+  {
+    "__ROW_PATH__": [
+      1170284400000
+    ],
+    "month_bucket(upload_date)": "2/1/2007",
+    "duration": 344,
+    "interaction_rate": 0.002079542500649857,
+    "view_count": 3847,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1217541600000
+    ],
+    "month_bucket(upload_date)": "8/1/2008",
+    "duration": 543,
+    "interaction_rate": 0.0038686907536028595,
+    "view_count": 132603,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1225494000000
+    ],
+    "month_bucket(upload_date)": "11/1/2008",
+    "duration": 647,
+    "interaction_rate": 0.0036977711130802265,
+    "view_count": 58684,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1228086000000
+    ],
+    "month_bucket(upload_date)": "12/1/2008",
+    "duration": 519.5,
+    "interaction_rate": 0.014293896456408597,
+    "view_count": 40157,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1230764400000
+    ],
+    "month_bucket(upload_date)": "1/1/2009",
+    "duration": 638.5,
+    "interaction_rate": 0.013805129695560562,
+    "view_count": 16407,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1233442800000
+    ],
+    "month_bucket(upload_date)": "2/1/2009",
+    "duration": 589,
+    "interaction_rate": 0.01247756601999829,
+    "view_count": 35103,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1235862000000
+    ],
+    "month_bucket(upload_date)": "3/1/2009",
+    "duration": 514.5,
+    "interaction_rate": 0.017791249341064838,
+    "view_count": 18373,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1238536800000
+    ],
+    "month_bucket(upload_date)": "4/1/2009",
+    "duration": 582,
+    "interaction_rate": 0.014938041079612968,
+    "view_count": 11782,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1241128800000
+    ],
+    "month_bucket(upload_date)": "5/1/2009",
+    "duration": 562,
+    "interaction_rate": 0.027235478428536998,
+    "view_count": 13425,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1243807200000
+    ],
+    "month_bucket(upload_date)": "6/1/2009",
+    "duration": 536,
+    "interaction_rate": 0.019758251975825196,
+    "view_count": 12906,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1246399200000
+    ],
+    "month_bucket(upload_date)": "7/1/2009",
+    "duration": 586.5,
+    "interaction_rate": 0.024083393242271746,
+    "view_count": 8442,
+    "categories": 4
+  },
+  {
+    "__ROW_PATH__": [
+      1249077600000
+    ],
+    "month_bucket(upload_date)": "8/1/2009",
+    "duration": 457.5,
+    "interaction_rate": 0.038787023977433006,
+    "view_count": 6599,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1251756000000
+    ],
+    "month_bucket(upload_date)": "9/1/2009",
+    "duration": 381.6666666666667,
+    "interaction_rate": 0.01937389249852333,
+    "view_count": 8465,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1254348000000
+    ],
+    "month_bucket(upload_date)": "10/1/2009",
+    "duration": 593.5,
+    "interaction_rate": 0.022907320797938342,
+    "view_count": 17611,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1257030000000
+    ],
+    "month_bucket(upload_date)": "11/1/2009",
+    "duration": 520,
+    "interaction_rate": 0.025628856193640248,
+    "view_count": 50844,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1262300400000
+    ],
+    "month_bucket(upload_date)": "1/1/2010",
+    "duration": 555.6666666666666,
+    "interaction_rate": 0.017904295742899465,
+    "view_count": 15527,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1264978800000
+    ],
+    "month_bucket(upload_date)": "2/1/2010",
+    "duration": 603,
+    "interaction_rate": 0.027825159914712152,
+    "view_count": 36348,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1267398000000
+    ],
+    "month_bucket(upload_date)": "3/1/2010",
+    "duration": 621.6666666666666,
+    "interaction_rate": 0.022300958732805336,
+    "view_count": 9596,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1270072800000
+    ],
+    "month_bucket(upload_date)": "4/1/2010",
+    "duration": 525.6666666666666,
+    "interaction_rate": 0.021928297946397494,
+    "view_count": 9715,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1275343200000
+    ],
+    "month_bucket(upload_date)": "6/1/2010",
+    "duration": 578,
+    "interaction_rate": 0.010502811776381078,
+    "view_count": 12092,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1277935200000
+    ],
+    "month_bucket(upload_date)": "7/1/2010",
+    "duration": 625,
+    "interaction_rate": 0.009662332322557435,
+    "view_count": 19457,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1280613600000
+    ],
+    "month_bucket(upload_date)": "8/1/2010",
+    "duration": 757.5,
+    "interaction_rate": 0.022134733158355204,
+    "view_count": 24236,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1283292000000
+    ],
+    "month_bucket(upload_date)": "9/1/2010",
+    "duration": 646,
+    "interaction_rate": 0.020544647156385425,
+    "view_count": 18691,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1285884000000
+    ],
+    "month_bucket(upload_date)": "10/1/2010",
+    "duration": 587,
+    "interaction_rate": 0.029969583109679728,
+    "view_count": 11178,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1288566000000
+    ],
+    "month_bucket(upload_date)": "11/1/2010",
+    "duration": 643.25,
+    "interaction_rate": 0.020685579196217493,
+    "view_count": 12169,
+    "categories": 8
+  },
+  {
+    "__ROW_PATH__": [
+      1291158000000
+    ],
+    "month_bucket(upload_date)": "12/1/2010",
+    "duration": 719,
+    "interaction_rate": 0.01715961562461001,
+    "view_count": 16026,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1293836400000
+    ],
+    "month_bucket(upload_date)": "1/1/2011",
+    "duration": 825.8,
+    "interaction_rate": 0.025787187839305104,
+    "view_count": 6470,
+    "categories": 5
+  },
+  {
+    "__ROW_PATH__": [
+      1296514800000
+    ],
+    "month_bucket(upload_date)": "2/1/2011",
+    "duration": 742,
+    "interaction_rate": 0.024025438699799787,
+    "view_count": 8491,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1298934000000
+    ],
+    "month_bucket(upload_date)": "3/1/2011",
+    "duration": 426,
+    "interaction_rate": 0.003865073787772312,
+    "view_count": 2846,
+    "categories": 5
+  },
+  {
+    "__ROW_PATH__": [
+      1301608800000
+    ],
+    "month_bucket(upload_date)": "4/1/2011",
+    "duration": 329.5,
+    "interaction_rate": 0.013186813186813187,
+    "view_count": 14208,
+    "categories": 4
+  },
+  {
+    "__ROW_PATH__": [
+      1304200800000
+    ],
+    "month_bucket(upload_date)": "5/1/2011",
+    "duration": 287,
+    "interaction_rate": 0.007136358466962357,
+    "view_count": 175860,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1306879200000
+    ],
+    "month_bucket(upload_date)": "6/1/2011",
+    "duration": 243.5,
+    "interaction_rate": 0.006211180124223602,
+    "view_count": 9938,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1309471200000
+    ],
+    "month_bucket(upload_date)": "7/1/2011",
+    "duration": 273.14285714285717,
+    "interaction_rate": 0.005427841634738187,
+    "view_count": 1319,
+    "categories": 7
+  },
+  {
+    "__ROW_PATH__": [
+      1312149600000
+    ],
+    "month_bucket(upload_date)": "8/1/2011",
+    "duration": 483.14285714285717,
+    "interaction_rate": 0.014167367030856045,
+    "view_count": 24077,
+    "categories": 7
+  },
+  {
+    "__ROW_PATH__": [
+      1314828000000
+    ],
+    "month_bucket(upload_date)": "9/1/2011",
+    "duration": 650.5,
+    "interaction_rate": 0.017954070981210855,
+    "view_count": 10899,
+    "categories": 4
+  },
+  {
+    "__ROW_PATH__": [
+      1317420000000
+    ],
+    "month_bucket(upload_date)": "10/1/2011",
+    "duration": 919,
+    "interaction_rate": 0.02447223342745731,
+    "view_count": 7437,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1320102000000
+    ],
+    "month_bucket(upload_date)": "11/1/2011",
+    "duration": 607.5,
+    "interaction_rate": 0.0289193302891933,
+    "view_count": 31661,
+    "categories": 4
+  },
+  {
+    "__ROW_PATH__": [
+      1322694000000
+    ],
+    "month_bucket(upload_date)": "12/1/2011",
+    "duration": 418.8,
+    "interaction_rate": 0.008888888888888889,
+    "view_count": 4202,
+    "categories": 5
+  },
+  {
+    "__ROW_PATH__": [
+      1325372400000
+    ],
+    "month_bucket(upload_date)": "1/1/2012",
+    "duration": 525,
+    "interaction_rate": 0.012953052785210412,
+    "view_count": 32888,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1328050800000
+    ],
+    "month_bucket(upload_date)": "2/1/2012",
+    "duration": 862,
+    "interaction_rate": 0.02482378179589335,
+    "view_count": 6526,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1330556400000
+    ],
+    "month_bucket(upload_date)": "3/1/2012",
+    "duration": 855.6666666666666,
+    "interaction_rate": 0.018000232261061434,
+    "view_count": 4894,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1333231200000
+    ],
+    "month_bucket(upload_date)": "4/1/2012",
+    "duration": 81,
+    "interaction_rate": 0.0011759743965068102,
+    "view_count": 1410745,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1335823200000
+    ],
+    "month_bucket(upload_date)": "5/1/2012",
+    "duration": 232.6,
+    "interaction_rate": 0.0009158866883163468,
+    "view_count": 20836,
+    "categories": 5
+  },
+  {
+    "__ROW_PATH__": [
+      1338501600000
+    ],
+    "month_bucket(upload_date)": "6/1/2012",
+    "duration": 656,
+    "interaction_rate": 0.019508670520231215,
+    "view_count": 5536,
+    "categories": 1
+  },
+  {
+    "__ROW_PATH__": [
+      1341093600000
+    ],
+    "month_bucket(upload_date)": "7/1/2012",
+    "duration": 669.3333333333334,
+    "interaction_rate": 0.028387968908415006,
+    "view_count": 3769,
+    "categories": 3
+  },
+  {
+    "__ROW_PATH__": [
+      1343772000000
+    ],
+    "month_bucket(upload_date)": "8/1/2012",
+    "duration": 566.5,
+    "interaction_rate": 0.01752913388900818,
+    "view_count": 6398,
+    "categories": 6
+  },
+  {
+    "__ROW_PATH__": [
+      1346450400000
+    ],
+    "month_bucket(upload_date)": "9/1/2012",
+    "duration": 383.5,
+    "interaction_rate": 0.037480063795853266,
+    "view_count": 1970782,
+    "categories": 2
+  },
+  {
+    "__ROW_PATH__": [
+      1349042400000
+    ],
+    "month_bucket(upload_date)": "10/1/2012",
+    "duration": 469.5,
+    "interaction_rate": 0.006106379559697895,
+    "view_count": 12062,
+    "categories": 4
+  },
+  {
+    "__ROW_PATH__": [
+      1351724400000
+    ],
+    "month_bucket(upload_date)": "11/1/2012",
+    "duration": 267.5,
+    "interaction_rate": 0.018018018018018018,
+    "view_count": 48275,
+    "categories": 4
+  },
+  {
+    "__ROW_PATH__": [
+      1354316400000
+    ],
+    "month_bucket(upload_date)": "12/1/2012",
+    "duration": 197.8235294117647,
+    "interaction_rate": 0.013172812179452572,
+    "view_count": 60709,
+    "categories": 51
+  },
+  {
+    "__ROW_PATH__": [
+      1356994800000
+    ],
+    "month_bucket(upload_date)": "1/1/2013",
+    "duration": 201.36507936507937,
+    "interaction_rate": 0.013050542764295098,
+    "view_count": 78610,
+    "categories": 63
+  },
+  {
+    "__ROW_PATH__": [
+      1359673200000
+    ],
+    "month_bucket(upload_date)": "2/1/2013",
+    "duration": 196.31578947368422,
+    "interaction_rate": 0.013998141839578817,
+    "view_count": 78791,
+    "categories": 57
+  },
+  {
+    "__ROW_PATH__": [
+      1362092400000
+    ],
+    "month_bucket(upload_date)": "3/1/2013",
+    "duration": 241.28787878787878,
+    "interaction_rate": 0.014677609235121241,
+    "view_count": 107217,
+    "categories": 66
+  },
+  {
+    "__ROW_PATH__": [
+      1364767200000
+    ],
+    "month_bucket(upload_date)": "4/1/2013",
+    "duration": 238.59016393442624,
+    "interaction_rate": 0.016712481574439265,
+    "view_count": 91505,
+    "categories": 61
+  },
+  {
+    "__ROW_PATH__": [
+      1367359200000
+    ],
+    "month_bucket(upload_date)": "5/1/2013",
+    "duration": 180.90140845070422,
+    "interaction_rate": 0.015897681090126705,
+    "view_count": 92026,
+    "categories": 71
+  },
+  {
+    "__ROW_PATH__": [
+      1370037600000
+    ],
+    "month_bucket(upload_date)": "6/1/2013",
+    "duration": 241.390625,
+    "interaction_rate": 0.018028142633045353,
+    "view_count": 85499,
+    "categories": 64
+  },
+  {
+    "__ROW_PATH__": [
+      1372629600000
+    ],
+    "month_bucket(upload_date)": "7/1/2013",
+    "duration": 222.52631578947367,
+    "interaction_rate": 0.018082307219923707,
+    "view_count": 70254,
+    "categories": 76
+  },
+  {
+    "__ROW_PATH__": [
+      1375308000000
+    ],
+    "month_bucket(upload_date)": "8/1/2013",
+    "duration": 241.24285714285713,
+    "interaction_rate": 0.01977430257203414,
+    "view_count": 77608,
+    "categories": 70
+  },
+  {
+    "__ROW_PATH__": [
+      1377986400000
+    ],
+    "month_bucket(upload_date)": "9/1/2013",
+    "duration": 186.27272727272728,
+    "interaction_rate": 0.019945747566618797,
+    "view_count": 96690,
+    "categories": 66
+  },
+  {
+    "__ROW_PATH__": [
+      1380578400000
+    ],
+    "month_bucket(upload_date)": "10/1/2013",
+    "duration": 213.46478873239437,
+    "interaction_rate": 0.02333295307961635,
+    "view_count": 80452,
+    "categories": 71
+  },
+  {
+    "__ROW_PATH__": [
+      1383260400000
+    ],
+    "month_bucket(upload_date)": "11/1/2013",
+    "duration": 235.23809523809524,
+    "interaction_rate": 0.016356541142008983,
+    "view_count": 56920,
+    "categories": 105
+  },
+  {
+    "__ROW_PATH__": [
+      1385852400000
+    ],
+    "month_bucket(upload_date)": "12/1/2013",
+    "duration": 263.4942528735632,
+    "interaction_rate": 0.01743119266055046,
+    "view_count": 76583,
+    "categories": 87
+  },
+  {
+    "__ROW_PATH__": [
+      1388530800000
+    ],
+    "month_bucket(upload_date)": "1/1/2014",
+    "duration": 234.79569892473117,
+    "interaction_rate": 0.020367976611860784,
+    "view_count": 96227,
+    "categories": 93
+  },
+  {
+    "__ROW_PATH__": [
+      1391209200000
+    ],
+    "month_bucket(upload_date)": "2/1/2014",
+    "duration": 291.43333333333334,
+    "interaction_rate": 0.01984896418001837,
+    "view_count": 85890,
+    "categories": 90
+  },
+  {
+    "__ROW_PATH__": [
+      1393628400000
+    ],
+    "month_bucket(upload_date)": "3/1/2014",
+    "duration": 248.25882352941176,
+    "interaction_rate": 0.020128414857177944,
+    "view_count": 139109,
+    "categories": 85
+  },
+  {
+    "__ROW_PATH__": [
+      1396303200000
+    ],
+    "month_bucket(upload_date)": "4/1/2014",
+    "duration": 272.4040404040404,
+    "interaction_rate": 0.018106832897093264,
+    "view_count": 112092,
+    "categories": 99
+  },
+  {
+    "__ROW_PATH__": [
+      1398895200000
+    ],
+    "month_bucket(upload_date)": "5/1/2014",
+    "duration": 308.3551401869159,
+    "interaction_rate": 0.015999583072753804,
+    "view_count": 83884,
+    "categories": 107
+  },
+  {
+    "__ROW_PATH__": [
+      1401573600000
+    ],
+    "month_bucket(upload_date)": "6/1/2014",
+    "duration": 329.36559139784947,
+    "interaction_rate": 0.021535945656959557,
+    "view_count": 96941,
+    "categories": 93
+  },
+  {
+    "__ROW_PATH__": [
+      1404165600000
+    ],
+    "month_bucket(upload_date)": "7/1/2014",
+    "duration": 439.8217821782178,
+    "interaction_rate": 0.021021450194234043,
+    "view_count": 91886,
+    "categories": 101
+  },
+  {
+    "__ROW_PATH__": [
+      1406844000000
+    ],
+    "month_bucket(upload_date)": "8/1/2014",
+    "duration": 340.6465517241379,
+    "interaction_rate": 0.018498677963769326,
+    "view_count": 106777,
+    "categories": 116
+  },
+  {
+    "__ROW_PATH__": [
+      1409522400000
+    ],
+    "month_bucket(upload_date)": "9/1/2014",
+    "duration": 340.35643564356434,
+    "interaction_rate": 0.022679444671541687,
+    "view_count": 97781,
+    "categories": 101
+  },
+  {
+    "__ROW_PATH__": [
+      1412114400000
+    ],
+    "month_bucket(upload_date)": "10/1/2014",
+    "duration": 377.0183486238532,
+    "interaction_rate": 0.018902720147533424,
+    "view_count": 88425,
+    "categories": 109
+  },
+  {
+    "__ROW_PATH__": [
+      1414796400000
+    ],
+    "month_bucket(upload_date)": "11/1/2014",
+    "duration": 348.29411764705884,
+    "interaction_rate": 0.022614770459081838,
+    "view_count": 83473,
+    "categories": 102
+  },
+  {
+    "__ROW_PATH__": [
+      1417388400000
+    ],
+    "month_bucket(upload_date)": "12/1/2014",
+    "duration": 349.32323232323233,
+    "interaction_rate": 0.02440677966101695,
+    "view_count": 64921,
+    "categories": 99
+  },
+  {
+    "__ROW_PATH__": [
+      1420066800000
+    ],
+    "month_bucket(upload_date)": "1/1/2015",
+    "duration": 312.56,
+    "interaction_rate": 0.023301441568377913,
+    "view_count": 82596,
+    "categories": 100
+  },
+  {
+    "__ROW_PATH__": [
+      1422745200000
+    ],
+    "month_bucket(upload_date)": "2/1/2015",
+    "duration": 315.8265306122449,
+    "interaction_rate": 0.022574352905078133,
+    "view_count": 110746,
+    "categories": 98
+  },
+  {
+    "__ROW_PATH__": [
+      1425164400000
+    ],
+    "month_bucket(upload_date)": "3/1/2015",
+    "duration": 359.93333333333334,
+    "interaction_rate": 0.023800946572092273,
+    "view_count": 83802,
+    "categories": 105
+  },
+  {
+    "__ROW_PATH__": [
+      1427839200000
+    ],
+    "month_bucket(upload_date)": "4/1/2015",
+    "duration": 397.77,
+    "interaction_rate": 0.02417140125193182,
+    "view_count": 85832,
+    "categories": 100
+  },
+  {
+    "__ROW_PATH__": [
+      1430431200000
+    ],
+    "month_bucket(upload_date)": "5/1/2015",
+    "duration": 378.4561403508772,
+    "interaction_rate": 0.021748864014185968,
+    "view_count": 89903,
+    "categories": 114
+  },
+  {
+    "__ROW_PATH__": [
+      1433109600000
+    ],
+    "month_bucket(upload_date)": "6/1/2015",
+    "duration": 359.6814159292035,
+    "interaction_rate": 0.024975381064867117,
+    "view_count": 87543,
+    "categories": 113
+  },
+  {
+    "__ROW_PATH__": [
+      1435701600000
+    ],
+    "month_bucket(upload_date)": "7/1/2015",
+    "duration": 358.1047619047619,
+    "interaction_rate": 0.023541104976267154,
+    "view_count": 96463,
+    "categories": 105
+  },
+  {
+    "__ROW_PATH__": [
+      1438380000000
+    ],
+    "month_bucket(upload_date)": "8/1/2015",
+    "duration": 358.625,
+    "interaction_rate": 0.025885276454752536,
+    "view_count": 102273,
+    "categories": 88
+  },
+  {
+    "__ROW_PATH__": [
+      1441058400000
+    ],
+    "month_bucket(upload_date)": "9/1/2015",
+    "duration": 1024.205357142857,
+    "interaction_rate": 0.023888067341599362,
+    "view_count": 68045,
+    "categories": 112
+  },
+  {
+    "__ROW_PATH__": [
+      1443650400000
+    ],
+    "month_bucket(upload_date)": "10/1/2015",
+    "duration": 1074.787610619469,
+    "interaction_rate": 0.024766052224789323,
+    "view_count": 35090,
+    "categories": 113
+  },
+  {
+    "__ROW_PATH__": [
+      1446332400000
+    ],
+    "month_bucket(upload_date)": "11/1/2015",
+    "duration": 867.6739130434783,
+    "interaction_rate": 0.02492079810823618,
+    "view_count": 56695,
+    "categories": 92
+  },
+  {
+    "__ROW_PATH__": [
+      1448924400000
+    ],
+    "month_bucket(upload_date)": "12/1/2015",
+    "duration": 391.271186440678,
+    "interaction_rate": 0.02356020942408377,
+    "view_count": 43216,
+    "categories": 118
+  },
+  {
+    "__ROW_PATH__": [
+      1451602800000
+    ],
+    "month_bucket(upload_date)": "1/1/2016",
+    "duration": 469.4878048780488,
+    "interaction_rate": 0.02319209315980037,
+    "view_count": 51562,
+    "categories": 123
+  },
+  {
+    "__ROW_PATH__": [
+      1454281200000
+    ],
+    "month_bucket(upload_date)": "2/1/2016",
+    "duration": 585.3669724770642,
+    "interaction_rate": 0.024250159540523293,
+    "view_count": 26787,
+    "categories": 109
+  },
+  {
+    "__ROW_PATH__": [
+      1456786800000
+    ],
+    "month_bucket(upload_date)": "3/1/2016",
+    "duration": 543.7798165137615,
+    "interaction_rate": 0.022673677396341827,
+    "view_count": 23005,
+    "categories": 109
+  },
+  {
+    "__ROW_PATH__": [
+      1459461600000
+    ],
+    "month_bucket(upload_date)": "4/1/2016",
+    "duration": 854.2773109243698,
+    "interaction_rate": 0.021157436216552583,
+    "view_count": 16862,
+    "categories": 119
+  },
+  {
+    "__ROW_PATH__": [
+      1462053600000
+    ],
+    "month_bucket(upload_date)": "5/1/2016",
+    "duration": 506.6636363636364,
+    "interaction_rate": 0.024309291325795252,
+    "view_count": 14224,
+    "categories": 110
+  },
+  {
+    "__ROW_PATH__": [
+      1464732000000
+    ],
+    "month_bucket(upload_date)": "6/1/2016",
+    "duration": 543.0578512396694,
+    "interaction_rate": 0.023958253980345852,
+    "view_count": 9962,
+    "categories": 121
+  },
+  {
+    "__ROW_PATH__": [
+      1467324000000
+    ],
+    "month_bucket(upload_date)": "7/1/2016",
+    "duration": 810.0104166666666,
+    "interaction_rate": 0.018150388936905792,
+    "view_count": 12202,
+    "categories": 192
+  },
+  {
+    "__ROW_PATH__": [
+      1470002400000
+    ],
+    "month_bucket(upload_date)": "8/1/2016",
+    "duration": 506.47701149425285,
+    "interaction_rate": 0.0182370820668693,
+    "view_count": 8234,
+    "categories": 174
+  },
+  {
+    "__ROW_PATH__": [
+      1472680800000
+    ],
+    "month_bucket(upload_date)": "9/1/2016",
+    "duration": 967.9961538461539,
+    "interaction_rate": 0.0122942279641592,
+    "view_count": 7028,
+    "categories": 260
+  },
+  {
+    "__ROW_PATH__": [
+      1475272800000
+    ],
+    "month_bucket(upload_date)": "10/1/2016",
+    "duration": 316.5879120879121,
+    "interaction_rate": 0.017617899249732047,
+    "view_count": 8814,
+    "categories": 182
+  },
+  {
+    "__ROW_PATH__": [
+      1477954800000
+    ],
+    "month_bucket(upload_date)": "11/1/2016",
+    "duration": 374.8983957219251,
+    "interaction_rate": 0.02147165259348613,
+    "view_count": 8282,
+    "categories": 187
+  },
+  {
+    "__ROW_PATH__": [
+      1480546800000
+    ],
+    "month_bucket(upload_date)": "12/1/2016",
+    "duration": 489.1794871794872,
+    "interaction_rate": 0.020851031821882412,
+    "view_count": 13445,
+    "categories": 195
+  },
+  {
+    "__ROW_PATH__": [
+      1483225200000
+    ],
+    "month_bucket(upload_date)": "1/1/2017",
+    "duration": 466.54424778761063,
+    "interaction_rate": 0.01752021563342318,
+    "view_count": 11167,
+    "categories": 226
+  },
+  {
+    "__ROW_PATH__": [
+      1485903600000
+    ],
+    "month_bucket(upload_date)": "2/1/2017",
+    "duration": 600.6160337552743,
+    "interaction_rate": 0.01707429626211352,
+    "view_count": 11063,
+    "categories": 237
+  },
+  {
+    "__ROW_PATH__": [
+      1488322800000
+    ],
+    "month_bucket(upload_date)": "3/1/2017",
+    "duration": 654.2294372294373,
+    "interaction_rate": 0.0183585313174946,
+    "view_count": 8089,
+    "categories": 231
+  },
+  {
+    "__ROW_PATH__": [
+      1490997600000
+    ],
+    "month_bucket(upload_date)": "4/1/2017",
+    "duration": 789.0206611570248,
+    "interaction_rate": 0.015302332491457436,
+    "view_count": 11417,
+    "categories": 242
+  },
+  {
+    "__ROW_PATH__": [
+      1493589600000
+    ],
+    "month_bucket(upload_date)": "5/1/2017",
+    "duration": 965.0051020408164,
+    "interaction_rate": 0.017083018321617578,
+    "view_count": 15115,
+    "categories": 196
+  },
+  {
+    "__ROW_PATH__": [
+      1496268000000
+    ],
+    "month_bucket(upload_date)": "6/1/2017",
+    "duration": 1114.3173076923076,
+    "interaction_rate": 0.01663137671224502,
+    "view_count": 8472,
+    "categories": 208
+  },
+  {
+    "__ROW_PATH__": [
+      1498860000000
+    ],
+    "month_bucket(upload_date)": "7/1/2017",
+    "duration": 1016.6901408450705,
+    "interaction_rate": 0.01644736842105263,
+    "view_count": 8898,
+    "categories": 213
+  },
+  {
+    "__ROW_PATH__": [
+      1501538400000
+    ],
+    "month_bucket(upload_date)": "8/1/2017",
+    "duration": 1172.0365296803652,
+    "interaction_rate": 0.012640772236267524,
+    "view_count": 6605,
+    "categories": 219
+  },
+  {
+    "__ROW_PATH__": [
+      1504216800000
+    ],
+    "month_bucket(upload_date)": "9/1/2017",
+    "duration": 1662.2910798122066,
+    "interaction_rate": 0.011415333298773915,
+    "view_count": 6615,
+    "categories": 213
+  },
+  {
+    "__ROW_PATH__": [
+      1506808800000
+    ],
+    "month_bucket(upload_date)": "10/1/2017",
+    "duration": 1024.888888888889,
+    "interaction_rate": 0.013605442176870748,
+    "view_count": 2464,
+    "categories": 207
+  },
+  {
+    "__ROW_PATH__": [
+      1509490800000
+    ],
+    "month_bucket(upload_date)": "11/1/2017",
+    "duration": 882.6224489795918,
+    "interaction_rate": 0.017956956119889088,
+    "view_count": 4685,
+    "categories": 196
+  },
+  {
+    "__ROW_PATH__": [
+      1512082800000
+    ],
+    "month_bucket(upload_date)": "12/1/2017",
+    "duration": 2178.072847682119,
+    "interaction_rate": 0.012409513960703205,
+    "view_count": 2550,
+    "categories": 302
+  },
+  {
+    "__ROW_PATH__": [
+      1514761200000
+    ],
+    "month_bucket(upload_date)": "1/1/2018",
+    "duration": 696.625,
+    "interaction_rate": 0.021562438901768007,
+    "view_count": 15101,
+    "categories": 96
+  },
+  {
+    "__ROW_PATH__": [
+      1517439600000
+    ],
+    "month_bucket(upload_date)": "2/1/2018",
+    "duration": 368.4835164835165,
+    "interaction_rate": 0.02605262805131436,
+    "view_count": 16653,
+    "categories": 91
+  },
+  {
+    "__ROW_PATH__": [
+      1519858800000
+    ],
+    "month_bucket(upload_date)": "3/1/2018",
+    "duration": 309.27659574468083,
+    "interaction_rate": 0.024453863710466255,
+    "view_count": 32844,
+    "categories": 94
+  },
+  {
+    "__ROW_PATH__": [
+      1522533600000
+    ],
+    "month_bucket(upload_date)": "4/1/2018",
+    "duration": 360.56976744186045,
+    "interaction_rate": 0.02505710151401122,
+    "view_count": 12936,
+    "categories": 86
+  },
+  {
+    "__ROW_PATH__": [
+      1525125600000
+    ],
+    "month_bucket(upload_date)": "5/1/2018",
+    "duration": 297.77,
+    "interaction_rate": 0.023028543783260764,
+    "view_count": 22608,
+    "categories": 100
+  },
+  {
+    "__ROW_PATH__": [
+      1527804000000
+    ],
+    "month_bucket(upload_date)": "6/1/2018",
+    "duration": 402.7701149425287,
+    "interaction_rate": 0.02236770321876705,
+    "view_count": 40220,
+    "categories": 87
+  },
+  {
+    "__ROW_PATH__": [
+      1530396000000
+    ],
+    "month_bucket(upload_date)": "7/1/2018",
+    "duration": 401.975,
+    "interaction_rate": 0.028169326241134753,
+    "view_count": 20938,
+    "categories": 80
+  },
+  {
+    "__ROW_PATH__": [
+      1533074400000
+    ],
+    "month_bucket(upload_date)": "8/1/2018",
+    "duration": 502.5483870967742,
+    "interaction_rate": 0.0255865469931733,
+    "view_count": 35877,
+    "categories": 93
+  },
+  {
+    "__ROW_PATH__": [
+      1535752800000
+    ],
+    "month_bucket(upload_date)": "9/1/2018",
+    "duration": 374.3333333333333,
+    "interaction_rate": 0.024448242550345545,
+    "view_count": 66831,
+    "categories": 78
+  },
+  {
+    "__ROW_PATH__": [
+      1538344800000
+    ],
+    "month_bucket(upload_date)": "10/1/2018",
+    "duration": 322.22105263157897,
+    "interaction_rate": 0.025651087835603558,
+    "view_count": 26396,
+    "categories": 95
+  },
+  {
+    "__ROW_PATH__": [
+      1541026800000
+    ],
+    "month_bucket(upload_date)": "11/1/2018",
+    "duration": 384.85869565217394,
+    "interaction_rate": 0.025711094267363465,
+    "view_count": 53648,
+    "categories": 92
+  },
+  {
+    "__ROW_PATH__": [
+      1543618800000
+    ],
+    "month_bucket(upload_date)": "12/1/2018",
+    "duration": 343.8,
+    "interaction_rate": 0.02174149956408021,
+    "view_count": 43369,
+    "categories": 85
+  },
+  {
+    "__ROW_PATH__": [
+      1546297200000
+    ],
+    "month_bucket(upload_date)": "1/1/2019",
+    "duration": 465.65384615384613,
+    "interaction_rate": 0.02446696959105208,
+    "view_count": 50111,
+    "categories": 78
+  },
+  {
+    "__ROW_PATH__": [
+      1548975600000
+    ],
+    "month_bucket(upload_date)": "2/1/2019",
+    "duration": 259.0571428571429,
+    "interaction_rate": 0.02675843669813156,
+    "view_count": 21428,
+    "categories": 70
+  },
+  {
+    "__ROW_PATH__": [
+      1551394800000
+    ],
+    "month_bucket(upload_date)": "3/1/2019",
+    "duration": 336.5287356321839,
+    "interaction_rate": 0.024394859857302373,
+    "view_count": 32478,
+    "categories": 87
+  },
+  {
+    "__ROW_PATH__": [
+      1554069600000
+    ],
+    "month_bucket(upload_date)": "4/1/2019",
+    "duration": 415.88461538461536,
+    "interaction_rate": 0.02940070318780773,
+    "view_count": 12485,
+    "categories": 78
+  },
+  {
+    "__ROW_PATH__": [
+      1556661600000
+    ],
+    "month_bucket(upload_date)": "5/1/2019",
+    "duration": 389.79347826086956,
+    "interaction_rate": 0.02629613028537278,
+    "view_count": 12513,
+    "categories": 92
+  },
+  {
+    "__ROW_PATH__": [
+      1559340000000
+    ],
+    "month_bucket(upload_date)": "6/1/2019",
+    "duration": 382.15384615384613,
+    "interaction_rate": 0.03367517637646374,
+    "view_count": 12482,
+    "categories": 91
+  },
+  {
+    "__ROW_PATH__": [
+      1561932000000
+    ],
+    "month_bucket(upload_date)": "7/1/2019",
+    "duration": 356.27906976744185,
+    "interaction_rate": 0.029361942405420668,
+    "view_count": 12681,
+    "categories": 86
+  },
+  {
+    "__ROW_PATH__": [
+      1564610400000
+    ],
+    "month_bucket(upload_date)": "8/1/2019",
+    "duration": 384.11538461538464,
+    "interaction_rate": 0.03623580313683072,
+    "view_count": 5458,
+    "categories": 104
+  },
+  {
+    "__ROW_PATH__": [
+      1567288800000
+    ],
+    "month_bucket(upload_date)": "9/1/2019",
+    "duration": 327.63576158940396,
+    "interaction_rate": 0.03070703794653199,
+    "view_count": 3614,
+    "categories": 151
+  },
+  {
+    "__ROW_PATH__": [
+      1569880800000
+    ],
+    "month_bucket(upload_date)": "10/1/2019",
+    "duration": 892.9333333333333,
+    "interaction_rate": 0.03859250851305335,
+    "view_count": 2463,
+    "categories": 15
+  }
+]
