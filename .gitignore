@@ -23,4 +23,6 @@ data/full/*
 data/conceptnet/*
 
 !data/out
-
+data/out/Years_Metadata/tags/*
+data/out/tags.csv
+data/out/tags.feather
