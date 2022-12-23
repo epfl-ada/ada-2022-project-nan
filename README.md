@@ -43,7 +43,10 @@ Another graph is constructed to display how the categories are connected to each
 - Word Clouds for visualizing popular words in tags, titles, and descriptions.
 We tried different ways to separate and filter out these attributes.
 ## Organization within the team
-
+- Rouby: Clustering, Word Cloud, Website, Data Strory
+- Daria: Sentiment Analysis, Matching, Graphs, Data Story
+- Mariia: Sentiment Analysis, Graphs, Data Story
+- Jacobo: Clustering, Visualization, Data Story
 ## Authors
 - [@mariia](https://github.com/mariiavidmuk)
 - [@daria](https://github.com/dariayakovchuk)
