@@ -1,6 +1,6 @@
+Link to our data story: https://ahmadelrouby.github.io/youtube-analysis/
 # Where are the Cute Kittens and what happened to your attention spa...
 P2 Deliverable, project proposal, and initial analyses for [ADA - Fall 2022](https://dlab.epfl.ch/teaching/fall2022/cs401/projects/)
-
 # Table of contents
 
 - [Where are the Cute Kittens and what happened to your attention spa...](#where-are-the-cute-kittens-and-what-happened-to-your-attention-spa)
