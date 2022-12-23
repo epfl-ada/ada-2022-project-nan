@@ -15,13 +15,13 @@ P2 Deliverable, project proposal, and initial analyses for [ADA - Fall 2022](htt
 ## Abstract - Where are the Cute Kittens? 
 
 > *You sit comfortably on your couch and pick up your phone.*
-> *You scroll through the latest TikTok trend, past that funny Reel about Gen-Z humor. You snug into a blanket, ready to dive into the new 20min episode by 3Blue1Brown on 'Why PI Is Everywhere'. Once on YouTube, though, you get sidetracked by a Short of Elon taking a puff with Joe Rogan, and you end up irritated by a Vox documentary on the Rise to Power of Vladimir Putin.*[^1]
+> *You scroll through the latest TikTok trend, past that funny Reel about Gen-Z humor. You snug into a blanket, ready to dive into the new 20min episode by 3Blue1Brown on 'Why PI Is Everywhere'. Once on YouTube, though, you get sidetracked by a Short of Elon taking a puff with Joe Rogan, and you end up irritated by a Vox documentary on the Rise to Power of Vladimir Putin.
 > 
 > You stop and think: *Where are the cute kittens?*
 
 What happened to YouTube? How did we go from funny cat videos and epic fail montages to long-form podcasts, product reviews, and deconstructions of political rivalries with incredible production quality? How did YouTube not only survive but thrive in a world where short, mobile-first content became king?
 
-In this project, we will travel through time, and explore YouTube's trends over the years, using the YouNiverse Dataset [^2].
+In this project, we will travel through time, and explore YouTube's trends over the years, using the YouNiverse Dataset.
 
 ## Research Questions
 Our aim is *not* to establish a causal relationship between particular features and engagement, nor to create a recipe for future channel success. We will focus on presenting interesting trends that can be digested and appreciated regardless of how intertwined Social media as a whole has become.
